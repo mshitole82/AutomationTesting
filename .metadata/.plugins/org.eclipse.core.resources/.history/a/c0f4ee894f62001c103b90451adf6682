@@ -1,0 +1,30 @@
+
+public class reversenum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int num=111111;
+		
+		int rev=0;
+		
+		while(num!=0)
+		{
+			rev=rev*10 +num%10;
+			num=num/10;
+		}
+		
+		System.out.println(rev);
+		
+		if(rev==num)
+		{
+			System.out.println("Number is palindrom");
+		}
+		else
+		{
+			System.out.println("Number is not palindrom");
+		}
+		
+	}
+
+}

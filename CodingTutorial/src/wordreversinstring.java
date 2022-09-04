@@ -1,0 +1,30 @@
+
+public class wordreversinstring {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String givenString="My Name is Shitole , I am in Chennai";
+		
+		String reversString="";
+		
+		String[] splitStringIntoWords=givenString.split(" ");  
+		
+		for(int i=0; i<splitStringIntoWords.length; i++)
+		{
+			String wordInSplitStringIntoWords=splitStringIntoWords[i];
+			
+			String reversWord="";
+			
+			for(int j=wordInSplitStringIntoWords.length()-1; j>=0; j--)
+			{
+				reversWord=reversWord+wordInSplitStringIntoWords.charAt(j);
+			}
+			
+			reversString=reversString+reversWord+" ";
+			
+		}
+		System.out.println(reversString);
+		
+		}
+}

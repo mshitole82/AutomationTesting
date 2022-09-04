@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/docs/rest-assured-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/docs/rest-assured-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/rest-assured-4.3.3-dist/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-path-4.3.3-dist/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-path-4.3.3-dist/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-path-4.3.3-dist/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-path-4.3.3-dist/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-path-4.3.3-dist/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-path-4.3.3-dist/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-path-4.3.3-dist/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-path-4.3.3-dist/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/btf-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/checker-compat-qual-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/guava-28.2-android.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/jackson-coreutils-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/jackson-coreutils-equivalence-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/joda-time-2.10.5.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/jopt-simple-5.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/json-schema-core-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/json-schema-validator-2.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/libphonenumber-8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/mailapi-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/msg-simple-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/rhino-1.7.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/uri-template-0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/docs/json-schema-validator-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/json-schema-validator-4.3.3-dist/docs/json-schema-validator-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/kotlin-extensions-4.3.3-dist/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/kotlin-extensions-4.3.3-dist/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/kotlin-extensions-4.3.3-dist/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/kotlin-extensions-4.3.3-dist/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/kotlin-extensions-4.3.3-dist/kotlin-extensions-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/kotlin-extensions-4.3.3-dist/kotlin-stdlib-1.4.21.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/kotlin-extensions-4.3.3-dist/kotlin-stdlib-common-1.4.21.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/kotlin-extensions-4.3.3-dist/kotlin-stdlib-jdk7-1.4.21.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/docs/rest-assured-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/docs/rest-assured-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/restass/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/scala-support-4.3.3-dist/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/scala-support-4.3.3-dist/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/scala-support-4.3.3-dist/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/scala-support-4.3.3-dist/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/scala-support-4.3.3-dist/scala-support-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/spring-commons-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-deps/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-commons-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-mock-mvc-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-mock-mvc-4.3.3-dist/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/nio-multipart-parser-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/nio-stream-storage-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-commons-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-deps/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/nio-multipart-parser-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/nio-stream-storage-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-commons-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/spring-web-test-client-4.3.3-dist/spring-web-test-client-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-deps/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-deps/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-deps/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-deps/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-deps/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-deps/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Rest API/xml-path-4.3.3-dist/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
