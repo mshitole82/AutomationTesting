@@ -23,5 +23,5 @@ public class pattern1 {
 		}
 
 	}
-
+// trying to commit new changes
 }
