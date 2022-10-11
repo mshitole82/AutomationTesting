@@ -43,7 +43,7 @@ if(browserName.equals("chrome"))
 {
 	 System.setProperty("webdriver.chrome.driver", "C:\\Browser Drivers\\UpdatedChromeDriver\\chromedriver.exe");
 	driver= new ChromeDriver();
-		//execute in chrome driver"  use latest chrome
+		//execute in chrome dri\
 	
 }
 else if (browserName.equals("firefox"))
